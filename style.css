@@ -1,8 +1,9 @@
 /* General setup */
-body {
-  margin: 0 auto;
-  min-width: 1000px;
-  max-width: 1400px;
+* {
+  box-sizing: border-box;
+}
+
+html {
   background-image: url("img/milky-way.jpg");
   background-color: black;
   background-repeat: no-repeat;
@@ -13,8 +14,13 @@ body {
   overflow-y: auto;
 }
 
-/* Layout */
+body {
+  margin: 0 auto;
+  min-width: 1000px;
+  max-width: 1400px;
+}
 
+/* Layout */
 section {
   float: left;
   width: 50%;
@@ -39,7 +45,6 @@ header, section, aside, nav, footer {
 }
 
 /* header and footer */
-
 header, footer {
   border-top: 5px solid yellow;
   border-bottom: 5px solid yellow;
@@ -122,7 +127,6 @@ ol {
 }
 
 /* Nav Menu */
-
 nav ul {
   padding-left: 0;
   margin-top: 0.8rem;
@@ -149,5 +153,3 @@ nav li a:focus, nav li a:hover {
   color: orange;
   background: black;
 }
-
-
