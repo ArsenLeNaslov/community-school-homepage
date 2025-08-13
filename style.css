@@ -5,6 +5,7 @@
 
 html {
   background-image: url("img/milky-way.jpg");
+  background-color: transparent;
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
