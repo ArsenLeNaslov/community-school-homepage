@@ -4,4 +4,6 @@ A galaxy-themed Homepage built with HTML and CSS, following the instruction prov
 
 I used just one custom font instead of the many suggested in the original exercise.
 
+https://arsenlenaslov.github.io/community-school-homepage/
 
+![Uploading image.png…]()
