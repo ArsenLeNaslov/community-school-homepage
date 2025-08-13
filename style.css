@@ -3,17 +3,20 @@
   box-sizing: border-box;
 }
 
-body {
-  margin: 0 auto;
-  min-width: 1000px;
-  max-width: 1400px;
+html {
+  height: 100%;
   background-image: url("img/milky-way.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
   background-size: cover;
-  overflow-x: hidden;
-  overflow-y: auto;
+}
+
+body {
+  margin: 0 auto;
+  min-width: 1000px;
+  max-width: 1400px;
+  background: transparent;
 }
 
 /* Layout */
@@ -21,7 +24,6 @@ body {
 section {
   float: left;
   width: 50%;
-  background-color: transparent;
 }
 
 aside {
