@@ -41,3 +41,42 @@ header, footer {
   border-top: 5px solid #a66;
   border-bottom: 5px solid #a66;
 }
+
+@font-face {
+    font-family: "Zen Dots";
+    src: url("./fonts/ZenDots-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Typography details */
+html {
+  font-family: "Zen Dots", serif;
+  font-size: 8px;
+}
+
+h1, h2 {
+  font-family: "Zen Dots", sans-serif;
+  letter-spacing: 0.5px;
+}
+
+h1 {
+  font-size: 6rem;
+  text-align: center;
+  color: orange;
+  text-shadow: 4px 4px 10px darkblue;
+}
+
+h2 {
+  font-size: 4rem;
+  color: orange;
+  text-shadow: 4px 4px 10px darkblue;
+}
+
+p, li {
+  font-size: 1.6rem;
+  line-height: 1.5;
+  letter-spacing: 0.5px;
+  word-spacing: 1px;
+}
+
