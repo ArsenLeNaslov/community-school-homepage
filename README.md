@@ -6,4 +6,4 @@ I used just one custom font instead of the many suggested in the original exerci
 
 https://arsenlenaslov.github.io/community-school-homepage/
 
-![Uploading image.png…]()
+<img width="1342" height="890" alt="image" src="https://github.com/user-attachments/assets/aebc39a3-20bf-4ea8-bfd0-f530c74a00ce" />
