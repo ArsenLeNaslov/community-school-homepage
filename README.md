@@ -1,6 +1,6 @@
 # Space Community School Homepage
 
-A galaxy-themed Homepage built with HTML and CSS, following the instruction provided on [MDN's "Challenge: Typesetting a community school homepage"](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Text_styling/Typesetting_a_homepage) exercise.
+A galaxy-themed Homepage built with HTML and CSS, following the instruction provided on MDN's Challenge: [Typesetting a community school homepage](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Text_styling/Typesetting_a_homepage) exercise.
 
 In this exercise, I used just [ZenDots](https://www.cufonfonts.com/font/zen-dots) custom font instead of the many suggested in the original exercise. 
 
